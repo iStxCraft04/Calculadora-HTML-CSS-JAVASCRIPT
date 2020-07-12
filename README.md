@@ -1,10 +1,7 @@
 # Ejemplo-de-calculadora-en-JS-no-terminado-aun-
 Como menciono en la descripción no esta finalizada aún, sin embargo, cuando consiga ir haciendo cosas para finalizarla la compartire por
-aquí sin ningún problema, desde luego que esto esta hecho con los conocimientos que sabia para aquel tiempo cuando la hice, por esa razón
+aquí sin ningún problema, desde luego que esto esta hecho con los conocimientos que sabia para aquel tiempo gracias al curso de píldorasinformáticas cuando la hice, por esa razón
 tantas líneas de código: aunque quede satisfecho con el resultado ya que sirve para lo que quiero de momento.
-
-
-
 
 
 
